@@ -177,5 +177,4 @@ for _ in range(30):
 
 > **Danang Hilal Kurniawan**\
 > Mahasiswa Data Science\
-> [LinkedIn](https://https://www.linkedin.com/in/dananghilalkurniawan/)\
 > Email: [hilalkurniawandanang\@gmail.com](mailto:hilalkurniawandanang@gmail.com)
