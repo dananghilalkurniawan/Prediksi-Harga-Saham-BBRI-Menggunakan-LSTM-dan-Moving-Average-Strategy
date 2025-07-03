@@ -126,6 +126,11 @@ for _ in range(30):
 
 ------------------------------------------------------------------------
 
+### Bonus Tambahan (Prediksi 30 Hari ke Depan Saham BBRI)
+![output4](https://github.com/user-attachments/assets/2a770b7d-dd8c-4073-a928-c80aab82ee42)
+
+------------------------------------------------------------------------
+
 ## ✅ Kesimpulan
 
 -   Model **LSTM** sangat efektif dalam mempelajari pola historis harga saham BBRI.
